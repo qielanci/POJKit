@@ -11,7 +11,7 @@ import java.util.Map;
  * *部分实现需依赖 Guava 包
  *
  * @author Shibo.
- * @date 2019/4/10
+ * @date 2019/3/20
  */
 public class EnumUtil {
 

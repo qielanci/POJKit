@@ -12,7 +12,7 @@ import java.util.function.UnaryOperator;
  * 非线程安全
  *
  * @author Shibo.
- * @date 2019/4/10
+ * @date 2019/3/20
  * @param <D>
  */
 public class Dto<D> {
