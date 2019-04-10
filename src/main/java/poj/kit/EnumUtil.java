@@ -8,6 +8,7 @@ import java.util.Map;
 
 /**
  * 枚举操作工具类
+ * *部分实现需依赖 Guava 包
  *
  * @author Shibo.
  * @date 2019/4/10
